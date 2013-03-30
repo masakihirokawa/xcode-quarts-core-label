@@ -22,14 +22,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C23D4F221706885F00D1E95A /* QuartsCoreLabelSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuartsCoreLabelSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C23D4F221706885F00D1E95A /* QuartzCoreLabelSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuartzCoreLabelSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C23D4F251706885F00D1E95A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C23D4F271706885F00D1E95A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C23D4F291706885F00D1E95A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		C23D4F2D1706885F00D1E95A /* QuartsCoreLabelSample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuartsCoreLabelSample-Info.plist"; sourceTree = "<group>"; };
+		C23D4F2D1706885F00D1E95A /* QuartzCoreLabelSample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuartzCoreLabelSample-Info.plist"; sourceTree = "<group>"; };
 		C23D4F2F1706885F00D1E95A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C23D4F311706885F00D1E95A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C23D4F331706885F00D1E95A /* QuartsCoreLabelSample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QuartsCoreLabelSample-Prefix.pch"; sourceTree = "<group>"; };
+		C23D4F331706885F00D1E95A /* QuartzCoreLabelSample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QuartzCoreLabelSample-Prefix.pch"; sourceTree = "<group>"; };
 		C23D4F341706885F00D1E95A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C23D4F351706885F00D1E95A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		C23D4F371706885F00D1E95A /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				C23D4F481706887000D1E95A /* QuartzCore.framework */,
-				C23D4F2B1706885F00D1E95A /* QuartsCoreLabelSample */,
+				C23D4F2B1706885F00D1E95A /* QuartzCoreLabelSample */,
 				C23D4F241706885F00D1E95A /* Frameworks */,
 				C23D4F231706885F00D1E95A /* Products */,
 			);
@@ -69,7 +69,7 @@
 		C23D4F231706885F00D1E95A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C23D4F221706885F00D1E95A /* QuartsCoreLabelSample.app */,
+				C23D4F221706885F00D1E95A /* QuartzCoreLabelSample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		C23D4F2B1706885F00D1E95A /* QuartsCoreLabelSample */ = {
+		C23D4F2B1706885F00D1E95A /* QuartzCoreLabelSample */ = {
 			isa = PBXGroup;
 			children = (
 				C23D4F341706885F00D1E95A /* AppDelegate.h */,
@@ -94,16 +94,17 @@
 				C23D4F411706885F00D1E95A /* ViewController.m */,
 				C23D4F2C1706885F00D1E95A /* Supporting Files */,
 			);
+			name = QuartzCoreLabelSample;
 			path = QuartsCoreLabelSample;
 			sourceTree = "<group>";
 		};
 		C23D4F2C1706885F00D1E95A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C23D4F2D1706885F00D1E95A /* QuartsCoreLabelSample-Info.plist */,
+				C23D4F2D1706885F00D1E95A /* QuartzCoreLabelSample-Info.plist */,
 				C23D4F2E1706885F00D1E95A /* InfoPlist.strings */,
 				C23D4F311706885F00D1E95A /* main.m */,
-				C23D4F331706885F00D1E95A /* QuartsCoreLabelSample-Prefix.pch */,
+				C23D4F331706885F00D1E95A /* QuartzCoreLabelSample-Prefix.pch */,
 				C23D4F371706885F00D1E95A /* Default.png */,
 				C23D4F391706885F00D1E95A /* Default@2x.png */,
 				C23D4F3B1706885F00D1E95A /* Default-568h@2x.png */,
@@ -114,9 +115,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C23D4F211706885F00D1E95A /* QuartsCoreLabelSample */ = {
+		C23D4F211706885F00D1E95A /* QuartzCoreLabelSample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C23D4F451706885F00D1E95A /* Build configuration list for PBXNativeTarget "QuartsCoreLabelSample" */;
+			buildConfigurationList = C23D4F451706885F00D1E95A /* Build configuration list for PBXNativeTarget "QuartzCoreLabelSample" */;
 			buildPhases = (
 				C23D4F1E1706885F00D1E95A /* Sources */,
 				C23D4F1F1706885F00D1E95A /* Frameworks */,
@@ -126,9 +127,9 @@
 			);
 			dependencies = (
 			);
-			name = QuartsCoreLabelSample;
+			name = QuartzCoreLabelSample;
 			productName = QuartsCoreLabelSample;
-			productReference = C23D4F221706885F00D1E95A /* QuartsCoreLabelSample.app */;
+			productReference = C23D4F221706885F00D1E95A /* QuartzCoreLabelSample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -140,7 +141,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = Dolice;
 			};
-			buildConfigurationList = C23D4F1D1706885F00D1E95A /* Build configuration list for PBXProject "QuartsCoreLabelSample" */;
+			buildConfigurationList = C23D4F1D1706885F00D1E95A /* Build configuration list for PBXProject "QuartzCoreLabelSample" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -152,7 +153,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C23D4F211706885F00D1E95A /* QuartsCoreLabelSample */,
+				C23D4F211706885F00D1E95A /* QuartzCoreLabelSample */,
 			);
 		};
 /* End PBXProject section */
@@ -265,9 +266,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "QuartsCoreLabelSample/QuartsCoreLabelSample-Prefix.pch";
-				INFOPLIST_FILE = "QuartsCoreLabelSample/QuartsCoreLabelSample-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "QuartsCoreLabelSample/QuartzCoreLabelSample-Prefix.pch";
+				INFOPLIST_FILE = "QuartsCoreLabelSample/QuartzCoreLabelSample-Info.plist";
+				PRODUCT_NAME = QuartzCoreLabelSample;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -276,9 +277,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "QuartsCoreLabelSample/QuartsCoreLabelSample-Prefix.pch";
-				INFOPLIST_FILE = "QuartsCoreLabelSample/QuartsCoreLabelSample-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "QuartsCoreLabelSample/QuartzCoreLabelSample-Prefix.pch";
+				INFOPLIST_FILE = "QuartsCoreLabelSample/QuartzCoreLabelSample-Info.plist";
+				PRODUCT_NAME = QuartzCoreLabelSample;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -286,7 +287,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C23D4F1D1706885F00D1E95A /* Build configuration list for PBXProject "QuartsCoreLabelSample" */ = {
+		C23D4F1D1706885F00D1E95A /* Build configuration list for PBXProject "QuartzCoreLabelSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C23D4F431706885F00D1E95A /* Debug */,
@@ -295,13 +296,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C23D4F451706885F00D1E95A /* Build configuration list for PBXNativeTarget "QuartsCoreLabelSample" */ = {
+		C23D4F451706885F00D1E95A /* Build configuration list for PBXNativeTarget "QuartzCoreLabelSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C23D4F461706885F00D1E95A /* Debug */,
 				C23D4F471706885F00D1E95A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C23D4F211706885F00D1E95A"
-               BuildableName = "QuartsCoreLabelSample.app"
-               BlueprintName = "QuartsCoreLabelSample"
-               ReferencedContainer = "container:QuartsCoreLabelSample.xcodeproj">
+               BuildableName = "QuartzCoreLabelSample.app"
+               BlueprintName = "QuartzCoreLabelSample"
+               ReferencedContainer = "container:QuartzCoreLabelSample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C23D4F211706885F00D1E95A"
-            BuildableName = "QuartsCoreLabelSample.app"
-            BlueprintName = "QuartsCoreLabelSample"
-            ReferencedContainer = "container:QuartsCoreLabelSample.xcodeproj">
+            BuildableName = "QuartzCoreLabelSample.app"
+            BlueprintName = "QuartzCoreLabelSample"
+            ReferencedContainer = "container:QuartzCoreLabelSample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C23D4F211706885F00D1E95A"
-            BuildableName = "QuartsCoreLabelSample.app"
-            BlueprintName = "QuartsCoreLabelSample"
-            ReferencedContainer = "container:QuartsCoreLabelSample.xcodeproj">
+            BuildableName = "QuartzCoreLabelSample.app"
+            BlueprintName = "QuartzCoreLabelSample"
+            ReferencedContainer = "container:QuartzCoreLabelSample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C23D4F211706885F00D1E95A"
-            BuildableName = "QuartsCoreLabelSample.app"
-            BlueprintName = "QuartsCoreLabelSample"
-            ReferencedContainer = "container:QuartsCoreLabelSample.xcodeproj">
+            BuildableName = "QuartzCoreLabelSample.app"
+            BlueprintName = "QuartzCoreLabelSample"
+            ReferencedContainer = "container:QuartzCoreLabelSample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
